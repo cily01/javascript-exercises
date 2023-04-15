@@ -1,0 +1,255 @@
+[33mcommit 843beecc3e6d2421e380cc5e33e94caa9f7237dd[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: cily01 <ciaranlynn01@gmail.com>
+Date:   Fri Apr 7 18:05:47 2023 +0100
+
+    Add loops TDD exercise
+
+[33mcommit 029cf3ffcd86d1613ae233f7ac1aa32e1fd455f2[m
+Merge: cface9d 3789212
+Author: Kevin Mulhern <kevinmulhern23@gmail.com>
+Date:   Tue Mar 28 08:26:14 2023 +0100
+
+    Merge pull request #338 from TheOdinProject/KevinMulhern-patch-2
+    
+    Create LICENSE
+
+[33mcommit 378921289be8cae116aacabb58978e6906f95af7[m
+Author: Kevin Mulhern <kevinmulhern23@gmail.com>
+Date:   Sat Mar 25 15:49:30 2023 +0000
+
+    Create LICENSE
+    
+    Because:
+    * This repo does not have a licence
+    
+    This commit:
+    * Add the MIT licence
+
+[33mcommit cface9db196d2a18e513d1591ba92d60b8f206d6[m
+Merge: e63e0bf 736cae8
+Author: Kevin Mulhern <kevinmulhern23@gmail.com>
+Date:   Sat Mar 25 15:48:02 2023 +0000
+
+    Merge pull request #337 from TheOdinProject/revert-license
+    
+    Revert "Create LICENSE"
+
+[33mcommit 736cae8b06ad79f43011bab9649a5b450af062c5[m
+Author: Kevin <kevinmulhern23@gmail.com>
+Date:   Sat Mar 25 15:46:09 2023 +0000
+
+    Revert "Create LICENSE"
+    
+    This reverts commit e63e0bf2964e04e7e7b29c1898fa66f800f6f49b.
+
+[33mcommit e63e0bf2964e04e7e7b29c1898fa66f800f6f49b[m
+Author: Kevin Mulhern <kevinmulhern23@gmail.com>
+Date:   Sat Mar 25 15:44:27 2023 +0000
+
+    Create LICENSE
+    
+    Because:
+    * This repo did not have a licence
+    
+    This commit:
+    * Add MIT Licence
+
+[33mcommit 75869d191224f0a5996c10a85dc3199152813483[m
+Author: Asartea <76259120+Asartea@users.noreply.github.com>
+Date:   Sat Mar 18 22:45:37 2023 +0100
+
+    Mark caesar as archived and move archived exercise to own folder (#336)
+
+[33mcommit 6f5f71ff5b2540918d9a11604782c159fd3908c3[m
+Author: jhylacey <121734574+jhylacey@users.noreply.github.com>
+Date:   Sat Mar 18 14:14:44 2023 -0500
+
+    Remove redundant wording in reverse string README
+
+[33mcommit ea1f23639c605e3bc0e2cbf49bc5dfc82756e0b4[m
+Merge: 8dfb7e4 99d0e8a
+Author: Kevin Mulhern <kevinmulhern23@gmail.com>
+Date:   Sun Mar 5 11:59:59 2023 +0000
+
+    Merge pull request #329 from TheOdinProject/test-workflow
+    
+    Add circleci config file
+
+[33mcommit 99d0e8a71a4e7da779cce48435ddeda8dc8077b4[m
+Author: 01zulfi <85733202+01zulfi@users.noreply.github.com>
+Date:   Mon Feb 20 19:10:10 2023 +0500
+
+    Add circleci config file
+    * We can use circleci to test all spec files in solution subdirectories
+
+[33mcommit 8dfb7e450858f095576b699e8500dfcd6d7403e8[m
+Merge: 8746ce0 e416717
+Author: Eric Olkowski <70952936+thatblindgeye@users.noreply.github.com>
+Date:   Mon Feb 20 08:42:44 2023 -0500
+
+    Merge pull request #234 from thatblindgeye/update_solutions
+    
+    Exercises: Add solution directories for all exercises
+
+[33mcommit e416717ba93a5ecf5ca055e88329996e2be65f3f[m
+Author: thatblindgeye <thatblindgeye@gmail.com>
+Date:   Wed Feb 1 18:58:58 2023 -0500
+
+    Remove test skips for solutions
+
+[33mcommit 2ec0f4344d94b047aaeb80037136d33f39515426[m
+Author: thatblindgeye <thatblindgeye@gmail.com>
+Date:   Wed Feb 1 18:53:54 2023 -0500
+
+    Updated file paths
+
+[33mcommit a092bf05594dad81d95827595ee366e3d1317a62[m
+Merge: 4a11236 8746ce0
+Author: Eric Olkowski <70952936+thatblindgeye@users.noreply.github.com>
+Date:   Sat Jan 21 12:55:06 2023 -0500
+
+    Merge branch 'main' into update_solutions
+
+[33mcommit 4a112362c8ac620f9a8b8f0bcdae3dbb49a01991[m
+Author: thatblindgeye <thatblindgeye@gmail.com>
+Date:   Sat Jan 21 12:53:41 2023 -0500
+
+    Update files
+
+[33mcommit 8746ce056a6f66635923d079a868934aa84b8a7c[m
+Merge: a05d4d6 9214f20
+Author: Eric Olkowski <70952936+thatblindgeye@users.noreply.github.com>
+Date:   Sat Nov 19 10:39:52 2022 -0500
+
+    Merge pull request #299 from Asartea/asartea-patch-1
+    
+    07_tempConversion: Update tempConversion function's naming
+
+[33mcommit 9214f20afdc463905111e3d0d4a843b0d80d83c8[m
+Author: Asartea <76259120+Asartea@users.noreply.github.com>
+Date:   Sat Nov 12 21:07:47 2022 +0100
+
+    restore initial test state
+
+[33mcommit 0b218347ff7f3a2934621b0fc8cd2d39c2ec1824[m
+Author: Asartea <76259120+Asartea@users.noreply.github.com>
+Date:   Sat Nov 12 20:59:52 2022 +0100
+
+    Missed README.md
+
+[33mcommit 374252c3026d7de9765962e29ebf688bdbc9ad49[m
+Author: Asartea <76259120+Asartea@users.noreply.github.com>
+Date:   Sat Nov 12 20:49:28 2022 +0100
+
+    Update tempConversion function's naming
+
+[33mcommit a05d4d60c8376df82edb50da462cdc36df9fa31a[m
+Author: Rachel Moser <33227096+rlmoser99@users.noreply.github.com>
+Date:   Fri Oct 21 21:43:16 2022 -0500
+
+    PR Template: Flip order of checklist and details (#289)
+    
+    * PR Template: Flip order of checklist and details
+    
+    Because:
+    If the details are first, they are viewable in Discord's webhook.
+    
+    This PR:
+    * Moves the detail sections to the beginning of the template
+    * Moves the checklist section to the end of the template
+    * Adds an issue section to link the issue
+    * Adds the Because, This PR, and Issue sections to checklist
+    * Reduce wording that is not essential
+
+[33mcommit 0747078d979d7752de6706ffb7227d1d161f0b34[m
+Author: Kevin Mulhern <kevinmulhern23@gmail.com>
+Date:   Sun Mar 27 13:51:06 2022 +0100
+
+    Updated Installing Node JS lesson URL
+    
+    Because:
+    * We have updated our lesson urls
+
+[33mcommit 2586a8460cfe2a25ff652e32c1a730f7e3db20c1[m
+Merge: 1971712 649f0e3
+Author: Eric Olkowski <70952936+thatblindgeye@users.noreply.github.com>
+Date:   Tue Feb 22 17:01:28 2022 -0500
+
+    Merge pull request #231 from TheOdinProject/thatblindgeye-patch-2
+    
+    Templates: Create PR and Issue files
+
+[33mcommit fb1a2db8d734e813dad8ede3783ea6c290239083[m
+Author: thatblindgeye <thatblindgeye@gmail.com>
+Date:   Sun Feb 20 14:07:44 2022 -0500
+
+    Add solution directories for exercises
+
+[33mcommit 649f0e3771a8173309aded9f9b573e37572b493b[m
+Author: Eric Olkowski <70952936+thatblindgeye@users.noreply.github.com>
+Date:   Sun Feb 20 13:25:26 2022 -0500
+
+    Update PULL_REQUEST_TEMPLATE.md
+
+[33mcommit f82c72f76046051857eacac0a79076c48966ae54[m
+Author: Eric Olkowski <70952936+thatblindgeye@users.noreply.github.com>
+Date:   Sun Feb 20 13:21:49 2022 -0500
+
+    Update bug_report.md
+
+[33mcommit f002e3d6d0ff49d01905032e717a26b7bfb6cf7b[m
+Author: Eric Olkowski <70952936+thatblindgeye@users.noreply.github.com>
+Date:   Sun Feb 20 13:20:37 2022 -0500
+
+    Update feature_request.md
+
+[33mcommit 1971712fde15ecfdb3868d1b404e65a05b38eab2[m
+Merge: 2ebbb5a 67d4d0a
+Author: Eric Olkowski <70952936+thatblindgeye@users.noreply.github.com>
+Date:   Thu Feb 17 07:22:10 2022 -0500
+
+    Merge pull request #230 from TheOdinProject/thatblindgeye-patch-1
+    
+    README: Make more consistent with other repos
+
+[33mcommit 67d4d0afec84a5a8b886b443999bc6406884f2df[m
+Author: Eric Olkowski <70952936+thatblindgeye@users.noreply.github.com>
+Date:   Wed Feb 16 22:01:13 2022 -0500
+
+    Update README.md
+
+[33mcommit 076059551a0c99d0c5d8551f7ad9449ed9211870[m
+Author: Eric Olkowski <70952936+thatblindgeye@users.noreply.github.com>
+Date:   Wed Feb 16 17:41:44 2022 -0500
+
+    Update README.md
+
+[33mcommit 2b54b1d6828ef21f2c6db4e3b353534137ad31bc[m
+Merge: 1b43007 2ebbb5a
+Author: Eric Olkowski <70952936+thatblindgeye@users.noreply.github.com>
+Date:   Wed Feb 16 17:26:00 2022 -0500
+
+    Merge branch 'main' into thatblindgeye-patch-1
+
+[33mcommit 2ebbb5a92589d1001f61d3e69de98c3f8797e801[m
+Merge: 2f9f431 edb9c24
+Author: 01zulfi <85733202+01zulfi@users.noreply.github.com>
+Date:   Wed Feb 16 08:55:14 2022 +0500
+
+    Merge pull request #232 from jernestmyers/fix/update-readme
+    
+    Remove irrelevant text from README about order of completion
+
+[33mcommit edb9c244b547f42fd47a73ae7d284cc6b53bc567[m
+Author: Jeremy Myers <inernestmusic@gmail.com>
+Date:   Mon Feb 14 16:05:00 2022 -0500
+
+    Remove irrelevant text about order of completion
+
+[33mcommit 417ee0d6e5bd719d9bd75fa526c8148282ca9d85[m
+Author: Eric Olkowski <70952936+thatblindgeye@users.noreply.github.com>
+Date:   Mon Feb 14 15:09:44 2022 -0500
+
+    Create feature_request.md
+
+[33mcommit baa5b0a7610f3a80b6fb63
